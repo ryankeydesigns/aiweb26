@@ -28,3 +28,4 @@
 
 /* Mobile comparison table alignment */
 @media(max-width:600px){.compare{padding-left:18px;padding-right:18px}.compareTable{margin-top:48px;width:100%;overflow:hidden}.tr{grid-template-columns:minmax(0,.84fr) minmax(0,1.51fr) minmax(0,1.7fr);min-height:76px;width:100%}.tr.head{min-height:82px}.tr>*{min-width:0;padding:14px 8px;line-height:1.35;overflow-wrap:normal;word-break:normal;border-right-width:1px}.tr:not(.head)>span{white-space:normal;word-break:keep-all;font-size:11px;letter-spacing:-.02em}.tr b{font-size:13px}.tr.head span,.tr.head b{font-size:9.5px;letter-spacing:-.03em;white-space:nowrap}.tr.head span,.tr.head b{justify-content:flex-start}.compareEnd{margin-top:52px}}
+@media(max-width:600px){.business h2{font-size:29px;line-height:1.02;letter-spacing:-.055em;white-space:nowrap}}
